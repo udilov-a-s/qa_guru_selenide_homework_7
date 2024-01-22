@@ -11,7 +11,7 @@ public class RegistrationTests extends TestBase {
     String gender = "Male";
     String mobileNumber = "9987654321";
     String day = "11";
-    String month = "February";
+    String month = "May";
     String year = "2020";
     String subjects = "Biology";
     String hobbies = "Sports";
